@@ -24,4 +24,5 @@ const generateCatalog = () => {
     document.body.insertAdjacentHTML('beforeend', genCatalog);
 };
 
-generateCatalog();
+export default generateCatalog;
+
