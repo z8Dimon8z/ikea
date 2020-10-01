@@ -1,4 +1,4 @@
-
+'use strict';
 
 import { catalog } from './menu.js';
 import generateHeader from './generateHeader.js';
